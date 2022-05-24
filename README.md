@@ -12,6 +12,8 @@ The scripts can be found [here](on-air-display/watch-camera-macos.sh) for MacOS 
 
 Lastly, I updated the code to glow blue when WIFI is connecting, and yellow for connecting to the Mosquitto broker.
 
+![Device](on-air-display/images/device.png)
+
 ## Description
 
 Arduino code for an ESP32 that lights a Led strip when a message is received by MQTTClient
